@@ -1,2 +1,2 @@
 # Matrix-Algebra
-Linear Algebra Functiosn
+Linear Algebra Functions --> tools I made while learning linear algebra
