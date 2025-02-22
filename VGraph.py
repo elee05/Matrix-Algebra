@@ -35,7 +35,7 @@ def plotVectorAddition(v1,v2):
     plt.close()
 
 
-def main():
+def addSimulator():
     while True:
         print("vector addition visualization")
         v1 = np.zeros([2])
@@ -57,7 +57,7 @@ def main():
             break
         
 
-main()
+
 #v1 = np.array([1,5])
 #v2 = np.array([5,1])
 #plotVectorAddition(v1,v2)
