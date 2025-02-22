@@ -1,6 +1,7 @@
 import numpy as np
 import Ax
 import Gauss as gs
+import VGraph as vg
 
 def main():
     A = np.array([[1,2,1],[3,1,1],[1,2,7]])
